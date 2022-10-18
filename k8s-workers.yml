@@ -1,4 +1,4 @@
-- hosts: master.example.com
+- hosts: masters
   become: yes
   gather_facts: false
   tasks:
