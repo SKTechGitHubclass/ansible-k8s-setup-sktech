@@ -1,6 +1,4 @@
 [masters]
-master.example.com
-
+ec2-35-154-108-123.ap-south-1.compute.amazonaws.com
 [workers]
-nodeone.example.com
-nodetwo.example.com
+ec2-65-1-65-227.ap-south-1.compute.amazonaws.com
